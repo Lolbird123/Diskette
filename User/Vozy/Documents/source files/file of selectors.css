@@ -3,10 +3,37 @@
   color: var(--accent) !important;
 }
 
+svg { color: var(--accent) !important; }
+
 /* Square Off */
 * {
   border-radius: 0 !important;
 }
+
+/* title bar thingy */
+.upperContainer_e44302 { padding-left: 20px; }
+
+/* message box */
+.scrollableContainer_d0696b { border: var(--borders); }
+
+/* emoji picker button */
+.sprite_af14ca {
+  background-color: var(--accent);
+  opacity: 1 !important;
+}
+.spriteColored_af14ca { display: none !important; }
+
+* { --input-background: rgb(10,10,10); }
+
+/* channel list selection */
+.modeSelected_d8bfb3 { border: var(--borders); }
+
+/* i fucking give up */
+.themed_e44302, .selected_e9f61e, .layout_e9f61e, .link_d8bfb3, .userProfileInnerThemedNonPremium_c69a7b, .overlayBackground_c69a7b {
+  background-color: black !important;
+  background-image: none;
+}
+.upperBadge_c5f96a { display: none; }
 
 .scrollerBase_f742b2::-webkit-scrollbar-thumb,
 .scrollerBase_f742b2::-webkit-scrollbar-track,
@@ -175,8 +202,8 @@ foreignObject[mask*="url(#"] {
 #app-mount .checkboxWrapper-2fDzaA .input-3xr72x {
     margin: 0;
     opacity: 1;
-    height: 14px !important;
-    width: 14px !important;
+    height: 32px !important;
+    width: 32px !important;
     position: relative;
     cursor: var(--cursor);
     -webkit-appearance: checkbox;
