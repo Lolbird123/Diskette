@@ -35,6 +35,9 @@ svg { color: var(--accent) !important; }
 }
 .upperBadge_c5f96a { display: none; }
 
+.modeUnreadImportant_d8bfb3 > div > a > div > div.name_d8bfb3 { color: var(--accent) !important; }
+.icon_d8bfb3 { color: var(--channels-default) !important; }
+
 .scrollerBase_f742b2::-webkit-scrollbar-thumb,
 .scrollerBase_f742b2::-webkit-scrollbar-track,
 .webkit__8d35a::-webkit-scrollbar-thumb {
