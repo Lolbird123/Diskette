@@ -49,13 +49,8 @@ Version notes:
 
 /* -- ▲▲▲ DO NOT TOUCH ▲▲▲ -------------------------------------------------------------------------------------------------------------------- */
 
-<<<<<<< HEAD
-/* 🖌🖌🖌 Color Scheme 🖌🖌🖌 */
-@import url('https://slippinggittys-discord-themes.github.io/Diskette/User/Vozy/Documents/goodies/Color Schemes/Default.css');
-=======
 /* Color Scheme */
 @import url('https://raw.githubusercontent.com/Lolbird123/Diskette/main/User/Vozy/Documents/goodies/Color%20Schemes/AMOLED.css');
->>>>>>> 8d65f35045a07f72d5409d4b372ac19404ad052b
 
 /* [][][][][][] Fancy Window Title Headers [][][][][][] */
 @import url('https://raw.githubusercontent.com/Lolbird123/Diskette/main/User/Vozy/Documents/source%20files/everything%20else/border%20headers.css');
@@ -71,10 +66,6 @@ Version notes:
 
 /* >>>>>> Window Padding + Border <<<<<<< */
 :root {
-<<<<<<< HEAD
-  --pad: 30px;
   --showBorder: hidden; /* If your Color Scheme supports this feautre *and* you're on Windows, erase "hidden" */
-=======
   --pad: 10px;
->>>>>>> 8d65f35045a07f72d5409d4b372ac19404ad052b
 }
