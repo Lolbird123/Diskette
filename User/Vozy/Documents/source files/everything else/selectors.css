@@ -254,7 +254,7 @@ button.button_f67531 {
   background-color: var(--projectCabBackground) !important;
 }
 
-/* Header Ascii Text */
+/* Header Ascii Text 
 .heading-xxl\/semibold_dc00ef {
   font-family: "asciid" !important;
   font-size: 40px;
@@ -274,7 +274,7 @@ button.button_f67531 {
   font-family: "asciid" !important;
   font-size: 40px;
   color: var(--bordersH);
-}
+} */
 .emptyChannelIconComponent_c2668b {
   display: none;
 }
