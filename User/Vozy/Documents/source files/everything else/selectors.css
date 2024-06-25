@@ -220,6 +220,29 @@ button.button_f67531 {
    border: var(--bordersH) 2px solid !important;
 }
 
+/* Forums */
+.postTitleText_d331f1 {
+  font-family: "DM Mono" !important;
+  font-size: 15px;
+}
+.list_a6d69a>div:first-child {
+  background-color: var(--projectCabBackground);
+}
+.full-motion .container_d331f1 {
+  border: var(--borders);
+  background-color: var(--projectCabBackground);
+}
+.collapsed_c1668f {
+  background-color: var(--projectCabBackground);
+  border: 0px;
+}
+.list_a6d69a, .grid_a6d69a {
+  border: var(--borders);
+}
+.container_a6d69a {
+  margin: 10px 10px 17px 10px;
+}
+
 /* Guilds Mention */
 .mention_c10249 {
    background-color: var(--projectCabBackground2) !important;
@@ -232,6 +255,13 @@ button.button_f67531 {
   margin-left: 3px;
   background-color: var(--accent);
 }
+
+/* Guilds Placement */
+.scroller_fea3ef {
+  position: fixed !important;
+  top: 20px !important; 
+  padding-left: 10px !important; 
+} 
 
 /* Vencord Settings */
 .vc-addon-card {
@@ -253,15 +283,18 @@ button.button_f67531 {
   font-size: 40px;
   color: var(--bordersH);
 }
-.header_bf550a {
-  font-family: "asciid" !important;
-  font-size: 30px;
-  color: var(--bordersH);
-}
-.defaultColor_c46f6a, .heading-lg\/semibold_dc00ef {
+.defaultMarginh1_c46f6a, .defaultMarginh2_c46f6a, .header_bf550a {
   font-family: "asciid" !important;
   font-size: 30px;
   color: var(--accent);
+}
+.heading-xxl\/extrabold_dc00ef {
+  font-family: "asciid" !important;
+  font-size: 40px;
+  color: var(--bordersH);
+}
+.emptyChannelIconComponent_c2668b {
+  display: none;
 }
 
 /* Friends List */
