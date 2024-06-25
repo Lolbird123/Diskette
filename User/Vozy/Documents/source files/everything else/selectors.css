@@ -221,10 +221,10 @@ button.button_f67531 {
 }
 
 /* Forums */
-.postTitleText_d331f1 {
+/*.postTitleText_d331f1 {
   font-family: "DM Mono" !important;
   font-size: 15px;
-}
+}*/
 .list_a6d69a>div:first-child {
   background-color: var(--projectCabBackground);
 }
@@ -277,7 +277,7 @@ button.button_f67531 {
   background-color: var(--projectCabBackground) !important;
 }
 
-/* Header Ascii Text */
+/* Header Ascii Text 
 .heading-xxl\/semibold_dc00ef {
   font-family: "asciid" !important;
   font-size: 40px;
@@ -292,7 +292,7 @@ button.button_f67531 {
   font-family: "asciid" !important;
   font-size: 40px;
   color: var(--bordersH);
-}
+} */
 .emptyChannelIconComponent_c2668b {
   display: none;
 }
