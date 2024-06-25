@@ -256,12 +256,12 @@ button.button_f67531 {
   background-color: var(--accent);
 }
 
-/* Guilds Placement */
+/* Guilds Placement 
 .scroller_fea3ef {
   position: fixed !important;
   top: 20px !important; 
   padding-left: 10px !important; 
-} 
+} */
 
 /* Vencord Settings */
 .vc-addon-card {
