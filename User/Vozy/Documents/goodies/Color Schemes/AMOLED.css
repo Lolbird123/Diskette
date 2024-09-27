@@ -15,4 +15,6 @@
   --accent-focused: rgb(49, 49, 49);
   --accent-titles: rgba(198, 168, 55, 1);
   --borders: rgb(84, 0, 16) 1px solid;
+  --background-mentioned: rgb(32, 0, 8);
+  --info-warning-foreground: var(--accent-hover);
 }
