@@ -351,7 +351,8 @@ section[class^="panels"]>div[class^="container"]:hover {
 /* Window Padding */
 
 [class*="baseLayer"]>[class*="container"]>[class^="base_"]>[class^="content"] {
-    margin: var(--pad);
+    margin: none;
+    margin-top: var(--pad);
 }
 
 /* Checkboxes */
