@@ -2,7 +2,7 @@
  * @name Diskette
  * @author vozercozer
  * @version 1.0
- * @description A terminally-ill Discord theme inspired by the Spotify-Tui theme
+ * @description A terminally-ill Discord theme inspired by the Spotify-Tui theme, modified by Lolbird
 **/
 
 /*
@@ -15,4 +15,5 @@
 */
 
 /* 🚫🚫🚫🔌🔌🔌 Diskette Base Theme - Do NOT Eject 🔌🔌🔌🚫🚫🚫 */
-@import url('https://slippinggittys-discord-themes.github.io/Diskette/User/Vozy/Documents/source files/diskette.css');
+@import url('https://raw.githubusercontent.com/Lolbird123/Diskette/refs/heads/main/User/Vozy/Documents/source%20files/diskette.css');
+@import url('https://raw.githubusercontent.com/Lolbird123/Diskette/refs/heads/main/User/Vozy/Documents/goodies/Color%20Schemes/AMOLED.css');
