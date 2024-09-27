@@ -8,11 +8,11 @@
 }
 
 .theme-dark:root {
-  --bordersH: rgb(0, 255, 234); 
-  --accent: rgb(0, 255, 221);
-  --accent-hover: rgb(124, 124, 124, 0.977);
+  --bordersH: rgb(168, 0, 32); 
+  --accent: rgb(220, 0, 60);
+  --accent-hover: rgb(255, 0, 80, 0.977);
   --accent-selected: rgb(49, 49, 49);
   --accent-focused: rgb(49, 49, 49);
   --accent-titles: rgba(198, 168, 55, 1);
-  --borders: rgb(65, 179, 200) 1px solid;
+  --borders: rgb(84, 0, 16) 1px solid;
 }
