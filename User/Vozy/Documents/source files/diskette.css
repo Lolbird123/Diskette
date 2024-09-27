@@ -83,6 +83,15 @@ foreignObject[mask*="url(#"] {
     -webkit-mask: none;
 }
 
+/* fix channel list bg color */
+* {
+  --background-modifier-selected: none;
+}
+
+a:hover[href^="/channels/"] {
+  background: none !important; /* yes, the !important is needed, no idea why */
+}
+
 /*[class^="sidebar"]>[class^="privateChannels"] foreignObject[mask*="url(#"],
 section[class^="panels_"] div[class^="container_"] foreignObject[mask*="url(#"],
 [class^="tabBody"] [class^="peopleColumn_"] foreignObject[mask*="url(#"],
