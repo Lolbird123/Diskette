@@ -83,6 +83,9 @@ foreignObject[mask*="url(#"] {
     -webkit-mask: none;
 }
 
+/* no clue why it stopped being centered but i cant be bothered to fix it */
+[class^="channelTextArea_"]>[class*="scrollableContainer"]:before { content: none; }
+
 /* fix channel list bg color */
 * {
   --background-modifier-selected: none;
