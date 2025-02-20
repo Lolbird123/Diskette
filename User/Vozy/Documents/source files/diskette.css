@@ -91,6 +91,9 @@ foreignObject[mask*="url(#"] {
   --background-modifier-selected: none;
 }
 
+/* make inline codeblocks more visible */
+code.inline { background-color: #111; }
+
 a:hover[href^="/channels/"] {
   background: none !important; /* yes, the !important is needed, no idea why */
 }
